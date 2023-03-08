@@ -1,5 +1,7 @@
 # Prerequisites
 *.d
+*.db
+*.opendb
 
 # Compiled Object files
 *.slo
@@ -10,6 +12,7 @@
 # Precompiled Headers
 *.gch
 *.pch
+*.ipch
 
 # Compiled Dynamic libraries
 *.so
